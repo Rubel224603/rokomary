@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,600;1,700;1,800&display=swap');
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: sans-serifial,Arial !important;
+	
+}
+a{
+	text-decoration:none;
+}
+p{
+	line-height: 150%;
+	margin-bottom:2em;
+	
+}
+h1,h2,h3,h4,h5,h6{
+	margin-top: 10px;
+	margin-bottom:10px;
+	font-weight:normal;
+}
+.header_section{
+	margin-top: 30px;
+	margin-bottom: 25px;
+}.main_header_area{
+	margin-bottom: 20px;
+}
+.header_logo img{
+	width: 110px;
+}.input-group{
+	outline:none;
+}
+.serchInpu{
+	
+	
+}
+.serchInpu:focus {
+   outline: none !important;
+   box-shadow: none;
+}
+.card {
+    margin-left: 47px;
+    font-size: 38px;
+	border:none;
+}
+ button.btn.btn-outline-success.singBtn {
+    margin-top: -19px;
+    margin-left: 21px;
+}
+.imgBtn{
+	border-radius: 50%;
+	height: 20px;
+	width: 20px;
+	margin-left: 5px;
+	margin-bottom: -30px;
+	
+}
+center{
+	margin: -24px;
+}
+
+ul li a:first-child {
+	border: 1px solid transparent;
+}
+.m{
+	margin-top: 100px;
+}
+.bannerIMage{
+	margin:left: 5px;
+}

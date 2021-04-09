@@ -1,0 +1,113 @@
+.Bottom_Silede_section{
+	margin-top:  40px;
+}
+.Bottom_Silede_section .small_banner a img{
+	width: 100%;
+}.best_seler_title{
+	margin-top: 20px;
+}
+.bset_seller_catagory{ 
+	display: flex;
+    align-items: center;
+    
+	margin: 10px 0px 0px 0px;
+}.best_seller_book{
+	background-color: #0797d6;
+    width: 355px;
+	box-shadow: 0 0 5px 1px rgb(191 191 191 / 75%);
+}
+.best_seller_book_inner{
+	   padding: 20px 30px 0 30px;
+    height: 97px;
+    background-color: #F5F3FA;
+    border-bottom: 0;
+}
+	.best_seller_book_list{
+    border: none;
+    background-color: transparent;
+    color: #b2b2b2;
+    padding: 6px 12px;
+    margin: 0px 25px;
+    font-size: 14px;
+    font-weight: 700;
+    border-bottom: 2px solid transparent;
+	}
+.best_seller_catagory_list{	
+	border-radius: 20px;
+    font-size: 12px;
+    color: #666666;
+    padding: 8px 15px;
+    height: 34px;
+    border-color: #e8e9eb;
+    background-color: #ffffff;
+    
+    background-repeat: no-repeat;
+    background-position: 95% 55%;}
+	
+
+.best_seller_book_tabs{
+    border: none;
+    justify-content: center;
+    padding: 8px 0px 0px 0px;
+}
+.book_active{
+    color: #495057;
+    border-bottom: 2px solid #51c2fe;
+}.best_seller_book_serial_number{
+	font-size: 24px;
+    color: #b2b2b2;
+    margin: 0;
+}.best_seller_book_serial_number .serial_number_active{
+	color: #ff9900;
+}
+.best-seller-book-item-wrapper .best-seller-book-img {
+    width: 35px;
+    height: 50px;
+    margin: 0px 0px 0px 15px;
+}.card_body .container img{
+	width: 70px;
+}.autor{
+	font-size: 12px;
+    margin: -29px 32px -19px -4px;
+}
+.bookTitle{
+	
+}.best_seller_book .bg{
+	background:#0797D6;
+	
+}.best_sellerbok{
+	padding: 17px;
+	border: 2px solid #0797D6;background:#0797D6;
+	box-sizing:border-box;
+}.best_selelrAutor{
+	padding-top: 17px ;
+	border: 1px solid F7941E;box-sizing:border-box;background:#F7941E;}
+.best_selelrAutorBg{
+		background:#F7941E;
+	}
+.size{
+	font-size: 13px;
+}
+.footer-bacis-info{
+	margin-top: 30px;
+	font-size: 15px;
+}.onnorokom_logo{
+	margin-top: 40px;
+}.ml10{
+	margin-left: 80px;
+	margin-top: 25px;font-size: 13px;
+}.m0{
+	margin-top: 25px;
+}.fbPage img{
+	width: 300px; height: 180px;
+}.p-text {
+    text-align: center;
+    font-size: small;
+}.copyright {
+    padding-top: 12px;
+    padding-bottom: 3px;
+    background-color: #f1f2f4;
+    font-size: 90%;
+    align-items: center;
+    margin-top: 0px;
+}
